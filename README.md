@@ -8,9 +8,9 @@ Smartcontract  for [BNS](https://github.com/Logeshvarman/BNS-contract)
 
 **Front-end**  : React Js, web3 API
 
-**Web3**  : Solidity , Polygon
+**Web3**  :  , Alchmey's Polygon RPC
 
-**Backend**  : Nodejs ,Alchmey RPC
+**Backend**  : Solidity 
 
 
 ### run command 
