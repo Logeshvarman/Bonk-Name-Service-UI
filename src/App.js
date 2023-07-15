@@ -11,7 +11,7 @@ import ethLogo 	from './assets/ethlogo.png';
 const TWITTER_LINK = "https://twitter.com/logesh_varman";
 
 const tld = '.bonk';
-const CONTRACT_ADDRESS = "0x6D4fE2531B804016Ab5D3e1A8764c8b52429b2CE";
+const CONTRACT_ADDRESS = "0xDbb46f8d081a3D7870f6ec3C20009a3841E3a23e";
 
 const App = () => {
 
